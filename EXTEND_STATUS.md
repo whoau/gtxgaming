@@ -8,6 +8,10 @@
 历史记录:
 <!-- AUTO-EXTEND-LOG -->
 - ⛔ 验证码/安全校验拦截
+  - 时间：2025-12-12 11:39:34 (Asia/Shanghai) | 2025-12-12 03:39:34 (UTC)
+  - 服务器：index=0
+  - 运行：https://github.com/whoau/gtxgaming/actions/runs/20155464150
+- ⛔ 验证码/安全校验拦截
   - 时间：2025-12-11 11:40:26 (Asia/Shanghai) | 2025-12-11 03:40:26 (UTC)
   - 服务器：index=0
   - 运行：https://github.com/whoau/gtxgaming/actions/runs/20121150811
